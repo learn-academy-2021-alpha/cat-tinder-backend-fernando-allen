@@ -4,7 +4,7 @@ supers = [
     power_level: 80,
     place_of_birth: "Caldecott County, Mississippi",
     hobbies: "I love to play Bad Mitton and Bridge",
-    image_url: "https://static.wikia.nocookie.net/x-men/images/7/73/Rogue_Excalibur_Vol_4_1.jpg/revision/latest?cb=20200807040041"
+    image_url: "https://static.wikia.nocookie.net/x-men/images/7/73/Rogue_Excalibur_Vol_4_1.jpg"
   },
   {
     name: "Poison Ivy",
@@ -18,7 +18,7 @@ supers = [
     power_level: 100,
     hobbies: "When I have time I will sit and badazzle any new vest I get",
     place_of_birth: "Planet: Czarnia",
-    image_url:"https://static.wikia.nocookie.net/world-of-marvel-and-dc-comics/images/5/50/OldLobo.jpg/revision/latest?cb=20170729064840"
+    image_url:"https://upload.wikimedia.org/wikipedia/en/5/53/LoboComics.png"
   },
   {
     name: "Nightcrawler",
@@ -60,7 +60,7 @@ supers = [
     power_level: 1000,
     place_of_birth: "New York, New York",
     hobbies: "I spend my time jumping through time",
-    image_url: "https://static.wikia.nocookie.net/deathbattlefanon/images/5/55/Kang.jpg/revision/latest?cb=20171228021106"
+    image_url: "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Uncanny_Avengers_Vol_1%2C12.jpg/250px-Uncanny_Avengers_Vol_1%2C12.jpg"
   },
   {
     name: "Bishop",
